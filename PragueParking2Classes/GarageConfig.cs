@@ -52,7 +52,7 @@ namespace DataAccess
         {
             GarageConfig config = LoadOrCreate();
 
-            //Skapar en kopia av originalkonfigurationen för att kunna återställa vid avbryt
+    
 
             bool editing = true;
 
