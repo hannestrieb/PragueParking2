@@ -1,0 +1,3 @@
+﻿Car: 20 CZK/hour
+Motorcycle: 10 CZK/hour
+First 10 minutes free for all vehicles

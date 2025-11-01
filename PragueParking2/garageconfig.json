@@ -1,0 +1,9 @@
+{
+  "GarageName": "Prague parking",
+  "GarageSize": 100,
+  "CarSize": 4,
+  "CarPricePerHour": 20,
+  "McSize": 2,
+  "McPricePerHour": 10,
+  "SpotSize": 4
+}
